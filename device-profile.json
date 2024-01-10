@@ -1,0 +1,10 @@
+{
+  "test": {
+    "applicationId": "6736942a-ae5c-46ac-9309-9b87aa34f7d8",
+    "deviceProfileId": "6736942a-ae5c-46ac-9309-9b87aa34f7d8"
+  },
+  "SenseCAP S2015": {
+    "applicationId": "00000000-0000-0000-0000-000000000072",
+    "deviceProfileId": "b7a960b8-f3b4-4fa5-9a07-515401967aca"
+  }
+}
